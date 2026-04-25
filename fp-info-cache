@@ -1,4 +1,4 @@
-47306409718619463
+47308186835965307
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -70034,6 +70034,13 @@ OMRON_G2E
 0
 6
 6
+Library
+PHP48_4P1X4P1
+
+THS8136IPHP 
+0
+74
+50
 Library
 QMTECH_XC7A15T
 
